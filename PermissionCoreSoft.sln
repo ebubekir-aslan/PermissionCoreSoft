@@ -8,11 +8,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{4DBA0D37-C153-4C80-AD6A-6495899A2056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{4DBA0D37-C153-4C80-AD6A-6495899A2056}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{07BCD241-D938-4959-8B40-C95C4D705F53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{07BCD241-D938-4959-8B40-C95C4D705F53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{1F223373-8846-46D5-8FC9-EC8C14A359D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{1F223373-8846-46D5-8FC9-EC8C14A359D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "name", "name\name.csproj", "{48945635-261B-49DB-B437-1F5DE94AFABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{1F223373-8846-46D5-8FC9-EC8C14A359D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F223373-8846-46D5-8FC9-EC8C14A359D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F223373-8846-46D5-8FC9-EC8C14A359D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48945635-261B-49DB-B437-1F5DE94AFABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48945635-261B-49DB-B437-1F5DE94AFABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48945635-261B-49DB-B437-1F5DE94AFABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48945635-261B-49DB-B437-1F5DE94AFABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
