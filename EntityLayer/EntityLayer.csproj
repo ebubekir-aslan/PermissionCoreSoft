@@ -15,4 +15,8 @@
     <ProjectReference Include="..\ServiceLayer\ServiceLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="EntityFolder\" />
+  </ItemGroup>
+
 </Project>
